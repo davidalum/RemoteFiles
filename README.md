@@ -1,7 +1,5 @@
 David Alummoottil 
 Anirudh Balachandran
-			
-			  Assignment 3 – Remote Files 
 
 Program:
 
