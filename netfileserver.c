@@ -1,5 +1,7 @@
-/* Written by David Alummoottil and Anirudh Balachandran
+/*
+
 netfileserver.c 
+
 */
 
 #include <stdio.h>
