@@ -1,4 +1,4 @@
-/*Written by David Alummoottil and Anirudh Balachandran 
+/*
 
 libnetfiles.c 
 
