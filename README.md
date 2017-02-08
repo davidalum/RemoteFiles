@@ -1,6 +1,3 @@
-David Alummoottil 
-Anirudh Balachandran
-
 Program:
 
 We were asked to create a server and library that would communicate with a remote client and access and modify files on the computer. We were asked to receive a connection from the client to our library c file which contained the open, read , write and close functions which would then send the flags and the name of the path to our server. Our server which is connected to the library file would then perform the necessary function and return the appropriate value back to the library which would in turn return this value to the client.  If an error is encountered -1 is returned and the errno value is also set accordingly. 
